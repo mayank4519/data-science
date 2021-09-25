@@ -13,10 +13,11 @@ So idea here is to develop a mobile application or feed image of potato leaves t
 In the back end, will have deep learning and convolutional neural network working to predict such disease.
 
 Architecture design:
-Please refer attached images basic_architechture.PNG and basic_architechture2.PNG
+Please refer attached images basic_architechture*.PNG
 
-
-
-Steps:
-1. Download the potato disease dataset from kaggle --> https://www.kaggle.com/emmarex/plantdisease
-2. 
+Execution:
+1. Run api/main.py and it will open http://localhost:8000/predict 
+  Postman can be used to send POST query to webpage and upload a file, model will predict the disease.
+  
+2. Will deploy the predict function to GCP.
+  
