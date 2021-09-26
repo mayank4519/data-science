@@ -21,3 +21,6 @@ Execution:
   
 2. Will deploy the predict function to GCP.
   
+<img width="942" alt="frontend_image" src="https://user-images.githubusercontent.com/26452961/134792088-0ba8d6b2-d474-475d-a655-401a63aa1318.PNG"><img width="812" alt="image_detection" src="https://user-images.githubusercontent.com/26452961/134792092-748f61a2-c06c-4f05-8058-f5e1f7653dd7.PNG">
+<img width="911" alt="basic_architechture3" src="https://user-images.githubusercontent.com/26452961/134792093-1199f2c9-9ba4-43f6-9eaa-75c6af663d96.PNG">
+
